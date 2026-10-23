@@ -1,0 +1,6 @@
+{
+  "meta": {
+    "title": "CI/CD 流水线",
+    "description": "从 GitHub 提交、远程编译测试、镜像推送到 Kubernetes 验证的发布流水线。"
+  }
+}

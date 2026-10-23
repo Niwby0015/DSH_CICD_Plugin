@@ -1,0 +1,4 @@
+# Inserts the DSH CI/CD plugin into the current profile.
+- insert:
+    - id: dsh-cicd
+      name: dsh-plugin-cicd

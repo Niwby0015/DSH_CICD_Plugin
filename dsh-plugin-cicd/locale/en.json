@@ -1,0 +1,6 @@
+{
+  "meta": {
+    "title": "CI/CD Pipelines",
+    "description": "Release pipelines from GitHub commits through remote builds and image pushes to Kubernetes verification."
+  }
+}

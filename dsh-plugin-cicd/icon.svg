@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-label="CI/CD pipeline">
+  <rect width="64" height="64" rx="14" fill="#ffffff"/>
+  <path d="M14 32h8M26 32h8M38 32h8M50 32h0" stroke="#0969da" stroke-width="2.6" stroke-linecap="round"/>
+  <circle cx="12" cy="32" r="6" fill="#0969da"/>
+  <circle cx="24" cy="32" r="6" fill="#54aeff"/>
+  <circle cx="36" cy="32" r="6" fill="#8250df"/>
+  <circle cx="48" cy="32" r="6" fill="#1a7f37"/>
+  <path d="M12 38v8h36" fill="none" stroke="#d0d7de" stroke-width="2.2" stroke-linecap="round"/>
+  <path d="m45 43 4 3-4 3" fill="none" stroke="#d0d7de" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"/>
+  <circle cx="48" cy="52" r="4" fill="#1a7f37"/>
+</svg>
